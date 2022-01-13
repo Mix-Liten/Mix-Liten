@@ -25,5 +25,5 @@ Hi, I'm Ian! I am a front-end Developer of web. I love learing new technology an
 -->
 
 ## 🔗 Get in touch
-- Personal site: https://mix-liten.github.io/
+- [Profile](https://mix-liten.github.io/profile/)
 - Email: mixliten@gmail.com
