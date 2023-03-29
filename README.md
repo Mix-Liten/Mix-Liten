@@ -7,6 +7,6 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 ## 🔗 Get in touch
 - Email: mixliten@hotmail.com
 - Blog: [https://mix-liten.github.io](https://mix-liten.github.io/)
-- Profile: [https://mix-liten.github.io/profile](https://mix-liten.github.io/profile/)
+<!-- - Profile: [https://mix-liten.github.io/profile](https://mix-liten.github.io/profile/) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mix-Liten&show_icons=true&theme=radical" alt="Mix-Liten" />
